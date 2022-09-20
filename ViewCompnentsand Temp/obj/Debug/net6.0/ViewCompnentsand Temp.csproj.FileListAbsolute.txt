@@ -1,0 +1,30 @@
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\appsettings.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.staticwebassets.runtime.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.exe
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.deps.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.runtimeconfig.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\ViewCompnentsand Temp.pdb
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.csproj.AssemblyReference.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.AssemblyInfoInputs.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.AssemblyInfo.cs
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.csproj.CoreCompileInputs.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.RazorAssemblyInfo.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.RazorAssemblyInfo.cs
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\scopedcss\bundle\ViewCompnentsand Temp.styles.css
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\scopedcss\projectbundle\ViewCompnentsand Temp.bundle.scp.css
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.csproj.CopyComplete
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\refint\ViewCompnentsand Temp.dll
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.pdb
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ViewCompnentsand Temp.genruntimeconfig.cache
+C:\Users\Geetha\source\repos\ViewCompnentsand Temp\ViewCompnentsand Temp\obj\Debug\net6.0\ref\ViewCompnentsand Temp.dll
